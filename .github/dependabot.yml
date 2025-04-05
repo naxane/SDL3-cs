@@ -4,7 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "00:15" # 8:15pm EDT
     reviewers:
       - lithiumtoast
     target-branch: main
